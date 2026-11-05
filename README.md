@@ -1,4 +1,4 @@
-# Real vs AI
+# Real vs AI Image Analyzer
 
 Flask application that classifies an uploaded JPG, PNG, or WEBP image as
 `Real` or `AI Generated` using the MobileNetV2 model in
